@@ -177,9 +177,9 @@ The trained model is included as a portfolio artifact. For production deployment
 
 ## Author
 
-**M Jayanth Chowdary**
+** veerabhadra chary**
 
-B.Tech — Computer Science & Engineering (AI & ML)
+B.Tech — Computer Science 
 
 ### Skills Demonstrated
 
